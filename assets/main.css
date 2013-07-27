@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+grey = U
+pink = e42771
+orange = f2840f
+*/
+body {margin:0px; padding:0px; overflow:visible; height:100%;}
+#wrapper {
+	position:relative;
+	background: transparent url('../images/bgflowers.gif') no-repeat scroll center top;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#7d4c00;
+	width:995px;
+	margin:0 auto;
+	overflow:visible;
+	height:700px;
+}
+#content {
+	display:block;
+	width:500px;
+	margin:0 auto;
+	border-left:3px double #7d4c00;
+	border-right:3px double #7d4c00;
+	position:absolute;
+	left:235px;
+	padding:50px;
+	padding-top:300px;
+	line-height:1.5;
+}
+#content img {
+	margin:10px 0px;
+	border:1px solid #7d4c00;
+}
+#introtext {
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	clear:both;
+	font-size:18px;
+	margin:0 auto;
+	position:absolute;
+	left:238px;
+	width:605px;
+	top:100px;
+	text-align:center;
+}
+#introtext h2 {
+	font-weight:normal;
+}
+#menu {
+	display:block;
+	margin:0px;
+	padding:0px;
+	width:235px;
+	text-align:right;
+	list-style:none;
+	position:absolute;
+	top:260px;
+}
+#menu li {
+	cursor:pointer;
+}
+#menu li a {
+	text-decoration:none;
+	color:#7d4c00;
+	display:block;
+	width:215px;
+	height:100%;
+	padding:10px;
+}
+#menu li:hover {
+	background-color:#f3671e;
+}
+#menu li:hover a {
+	color:#ffffff;
+	text-decoration:none;
+}
+#menu li.active {
+	background-color:#EF5376;
+}
+#menu li.active a {
+	color:#ffffff;
+	text-decoration:none;
+}

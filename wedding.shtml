@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+  	<img src="images/barrenridge2.jpg" />
+    <h3>Wedding</h3>
+    <p>The wedding will be held at 6:30 pm at <a href="http://barrenridgevineyards.com/" target="_blank">Barren Ridge  Vineyards</a> (<a href="transtrav.shtml#BR">Directions to Barren Ridge</a>) in Fishersville, VA.</p>
+    <p><a href="http://barrenridgevineyards.com/" target="_blank">Barren Ridge</a> is a family-owned vineyard in the heart of the  Shenandoah Valley.  In the three years  since it opened, the winery has produced a variety of award-winning wines, some  of which we hope you will enjoy tasting at the reception.  This is also Libby’s former employer- while  living in Virginia last year, she managed the weddings and events at the  vineyard.</p>
+    <p>The wedding will be out on the winery patio (weather  permitting!), overlooking the vines.</p>
+    <p>The reception will follow in the winery, with drinks,  dinner, and dancing (and hopefully a lot of fun!).</p>
+  </div>
+  <div id="introtext"><h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+    Barren Ridge Vineyards<br />
+    Fishersville, VA</h2></div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'wedding';
+</script>
+</body>
+</html>

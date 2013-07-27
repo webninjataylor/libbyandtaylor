@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+  	<img src="images/NRAO-2009.jpg" />
+    <h3>Welcome</h3>
+    <p>We hope you can join us for the joyful celebration of our marriage this June, at
+      beautiful Barren Ridge Vineyards in Fishersville, Virginia.</p>
+    <p>The official invitations will be mailed this spring, but we hope this website will
+      give you the information you need as you decide whether you can be with us.
+      Feel free to send us a note if you have any questions- you can use the email
+      addresses you have for us, or <a href="mailto:libbyandtaylor@gmail.com">libbyandtaylor@gmail.com</a>.</p>
+    <p>Thank you all for the special parts you all play in our lives, and for considering
+      being a part of our wedding day!</p>
+    <p>Much love,<br />
+      Taylor and Libby</p>
+  </div>
+  <div id="introtext"><h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+    Barren Ridge Vineyards<br />
+    Fishersville, VA</h2></div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'welcome';
+</script>
+</body>
+</html>

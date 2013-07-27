@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content"><a href="assets/04-The-Lees-Of-Old-Virginia.mp3" target="_blank" onclick="window.focus();"><img src="images/monticello.jpg" /></a>
+    <h3>Things To Do</h3>
+    <h4>Explore the Area!!</h4>
+    <p>While you are in the area, we thought you might be  interested in checking out some of the nearby attractions and sites.  Here are some links to get you started:</p>
+    <p>Staunton, Virginia, where Woodrow Wilson was born, is just 5  miles down the road from the vineyard.   It has a beautiful historic downtown shopping and dining area, as well  as several museums and attractions.  </p>
+    <ul>
+      <li><a href="http://www.visitstaunton.com/" target="_blank">City of Staunton</a></li>
+      <li><a href="http://www.americanshakespearecenter.com/v.php?pg=124" target="_blank">The American Shakespeare Center and Blackfriars Theatre</a></li>
+      <li><a href="http://www.woodrowwilson.org/" target="_blank">Woodrow Wilson Presidential Library</a> </li>
+      <li><a href="http://www.frontiermuseum.org/" target="_blank">Frontier Culture Museum</a> </li>
+      <li><a href="http://www.staunton.va.us/directory/departments-h-z/recreation-parks/parks/gypsy-hill-park" target="_blank">Gypsy Hill Park</a> </li>
+    </ul>
+    <p>Other nearby sites are:</p>
+    <ul>
+      <li><a href="http://www.pbuckleymoss.com/" target="_blank">P. Buckley Moss Museum</a> (local folk artist who has been internationally        acclaimed)</li>
+      <li><a href="http://www.grandcaverns.com/" target="_blank">Grand Caverns</a></li>
+    </ul>
+    <p>Charlottesville, Virginia is only 30 miles east on I-64, and  is home to the University of Virginia (Taylor used to work on-campus here!) as  well as Monticello (the home of Thomas Jefferson), Ash Lawn-Highland (the home  of James Monroe), and a vibrant downtown pedestrian mall.</p>
+    <ul>
+      <li><a href="http://www.visitcharlottesville.org/" target="_blank">City of Charlottesville</a></li>
+      <li><a href="http://www.monticello.org/" target="_blank">Monticello</a> </li>
+      <li><a href="http://www.ashlawnhighland.org/" target="_blank">Ash Lawn-Highland</a></li>
+      <li><a href="http://www.virginia.edu/exploring.html" target="_blank">UVA</a></li>
+      <li><a href="http://www.downtowncharlottesville.net/" target="_blank">Downtown Mall</a></li>
+    </ul>
+    <p>Harrisonburg, Virginia is 30 miles north on I-81, and is  home to James Madison University (Taylor’s alma mater!). </p>
+    <ul>
+      <li><a href="http://www.downtownharrisonburg.org" target="_blank">City of Harrisonburg</a></li>
+      <li><a href="http://www.jmu.edu/jmuweb/visitJMU/" target="_blank">JMU</a></li>
+      <li><a href="http://www.massresort.com/" target="_blank">Massanutten        Resort</a> (golf, watersports, etc)</li>
+    </ul>
+    <p> Want to try one of our favorite pastimes?   Go wine tasting!  The area is also  home to many beautiful vineyards making high-quality wine.  (Did you know that Virginia is the 5th  largest wine region in the United States?)   Try some of the vineyards in the Monticello AVA in and around  Charlottesville, where over half of Virginia’s grapes grow.  Or explore the closer Shenendoah Valley wine  trail, which includes <a href="http://barrenridgevineyards.com/" target="_blank">Barren Ridge Vineyards</a> (where Libby used to work, and  where we hope to see you for the wedding!).   And don’t forget the beer!</p>
+    <ul>
+      <li><a href="http://www.virginiawine.org/" target="_blank">Official Virginia Wine website</a></li>
+      <li><a href="http://www.monticellowinetrail.com/" target="_blank">Monticello Wine Trails</a></li>
+      <li>The closest quality vineyards to Barren Ridge  and Staunton include:
+        <ul>
+          <li><a href="http://www.veritaswines.com" target="_blank">Veritas</a></li>
+          <li><a href="http://www.aftonmountainvineyards.com" target="_blank">Afton Mountain</a></li>
+          <li><a href="http://www.FlyingFoxVineyard.com" target="_blank">Flying Fox</a></li>
+          <li><a href="http://www.cardinalpointwinery.com" target="_blank">Cardinal Point</a></li>
+          <li><a href="http://www.kingfamilyvineyards.com" target="_blank">King Family</a></li>
+          <li><a href="http://www.pollakvineyards.com/" target="_blank">Pollak</a></li>
+        </ul>
+      </li>
+      <li><a href="http://shenandoahvalleywinetrail.com/" target="_blank">Shenendoah Valley Wine Trail</a></li>
+      <li>And if you are coming from the Washington, DC  area, be sure to stop by <a href="http://breauxvineyards.com/" target="_blank">Breaux Vineyards</a>,  where Libby works as the Cellar Club Manager and her brother Lawrence is the Business Development Manager (working  with some of our favorite people, too!)</li>
+      <li>Check out <a href="http://www.starrhill.com/" target="_blank">Starr Hill</a>, <a href="http://dbbrewingcompany.com/" target="_blank">Devil’s Backbone</a>, or <a href="http://www.bluemountainbrewery.com/" target="_blank">Blue Mountain Brewery</a> for some great beers on the &quot;Brew Ridge Trail!&quot;</li>
+    </ul>
+  </div>
+  <div id="introtext">
+    <h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+      Barren Ridge Vineyards<br />
+      Fishersville, VA</h2>
+  </div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'thingstodo';
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+  	<img src="images/fcm.jpg" />
+    <h3>Sunday Brunch</h3>
+    <p>Libby's parents have invited all of our guests to a casual brunch on Sunday from 9 am to noon at the <a href="http://www.frontiermuseum.org/" target="_blank">Frontier Culture Museum</a> in Staunton. </p>
+    <p>The Frontier Culture Museum is located at 1290 Richmond Avenue (Route 250) in Staunton. When you arrive at the museum, there is a large sign to the left after you drive through the main gate that points you to the Octagonal Barn. Park and head toward the Barn, where the brunch will be held. </p>
+  </div>
+  <div id="introtext"><h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+    Barren Ridge Vineyards<br />
+    Fishersville, VA</h2></div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'brunch';
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+  	<img src="images/travel.jpg" />
+    <h3>Transportation &amp; Travel</h3>
+    <p>Fishersville, VA is located in the Shenandoah Valley of  Virginia.  It is about ½ hour from  Charlottesville, VA and ½ hour from Harrisonburg, VA.</p>
+    <p><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=fishersville.va&amp;aq=&amp;sll=40.545127,-75.579931&amp;sspn=0.008365,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=Fishersville,+Augusta,+Virginia&amp;z=12&amp;ll=38.099023,-78.969192&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=fishersville.va&amp;aq=&amp;sll=40.545127,-75.579931&amp;sspn=0.008365,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=Fishersville,+Augusta,+Virginia&amp;z=12&amp;ll=38.099023,-78.969192" style="color:#0000FF;text-align:left">View Larger Map</a></small></p>
+    <p>Our hotel block is reserved at the <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/W/WYBSDHX-CJW-20110610/index.jhtml?WT.mc_id=POG" target="_blank">Hampton Inn</a> in Fishersville, located at 15 Four Square Lane.  Check out our Accommodations page for more details!</p>
+    <h4>Airports</h4>
+    <p>The closest regional airport to Fishersville is  Charlottesville (CHO).  The airport is  about 45 minutes away from the vineyard and Staunton.</p>
+    <p>Dulles International Airport (IAD), located south of  Washington, DC, is about a 2 ½ hour drive to the north, and Richmond  International (RIC) is about two hours east of Fishersville.</p>
+    <h4><a name="BR" id="BR"></a>Directions to Barren Ridge Vineyards</h4>
+    <p><strong>From I-64: </strong><br />
+      Take Exit 91 off of I-64 (Fishersville).  Turn onto Tinkling Spring Road   heading towards Fishersville.  Turn left on Route 250 West. Just past   the Food Lion turn right on Barren Ridge Road and follow for about 3   miles. (The last mile of the road is unpaved- don't worry, you haven't missed it!)  The winery is on the left.</p>
+    <p><strong>From I-81:</strong><br />
+      Take Exit 222 off of I-81 (Fishersville).  Turn onto Route 250  East, heading towards Fishersville, follow 250 for 3.5 miles.  Just before   the Food Lion turn left on Barren Ridge Road and follow for about 3   miles. (The last mile of the road is unpaved- don't worry, you haven't missed it!)  The winery is on the left. </p>
+  </div>
+  <div id="introtext"><h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+    Barren Ridge Vineyards<br />
+    Fishersville, VA</h2></div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'transtrav';
+</script>
+</body>
+</html>

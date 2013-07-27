@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Libby and Taylor - June 11, 2011</title>
+<link rel="stylesheet" type="text/css" media="screen" href="assets/main.css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="content">
+  	<img src="images/sjh.jpg" />
+    <p style="font-size:10px; margin:0px; font-style:italic;">Lobby of the Stonewall Jackson Hotel</p>
+    <h3>Accommodations</h3>
+    <p>We have reserved a block of rooms at the <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/W/WYBSDHX-CJW-20110610/index.jhtml?WT.mc_id=POG" target="_blank">Hampton Inn</a> for our guests. The block will have a discounted rate of $91.00 per night <span style="color:#ff0000;">(if reserved by Friday, May 27th)</span>, which is  good for Friday night as well as Saturday night, if you would like to  arrive earlier. To receive the discounted rate, you can use the link  above to book online- it leads you directly to our page on the <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/W/WYBSDHX-CJW-20110610/index.jhtml?WT.mc_id=POG" target="_blank">Hampton  Inn</a> website.  If you would prefer to reserve on the phone, you can call  the hotel at 540-213-9500 and let them know you are with the  Camp-Johnson wedding. </p>
+    <p>If you would prefer to stay in historic downtown Staunton, we also have a block of rooms at the <a href="http://www.stonewalljacksonhotel.com/" target="_blank">Stonewall Jackson Hotel</a>. Please call the hotel at 540.885.4848 and refer to the Camp-Johnson wedding for a discounted rate of $109.00 per night.</p>
+  </div>
+  <div id="introtext"><h1>Libby &amp; Taylor</h1>
+    <h2><strong>June 11, 2011</strong><br />
+    Barren Ridge Vineyards<br />
+    Fishersville, VA</h2></div>
+  <!--#include virtual="assets/menu.html"-->
+</div>
+<script language="javascript" src="assets/jquery-1.4.2.min.js"></script>
+<script language="javascript" src="assets/main.js"></script>
+<script language="javascript">
+	wnt.pagename = 'accommodations';
+</script>
+</body>
+</html>
